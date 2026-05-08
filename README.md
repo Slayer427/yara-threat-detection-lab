@@ -196,9 +196,7 @@ This ensures:
 
 Created the initial MalwareSandbox project in Replit and planned a secure educational malware simulation workflow using AI assisted development.
 
-```markdown
 ![Planning and Setup](project-planning.jpg)
-```
 
 ---
 
@@ -206,9 +204,7 @@ Created the initial MalwareSandbox project in Replit and planned a secure educat
 
 Configured the Flask based application environment including backend modules, templates, simulation components and live preview integration.
 
-```markdown
 ![Development Environment](development-environment.jpg)
-```
 
 ---
 
@@ -216,9 +212,7 @@ Configured the Flask based application environment including backend modules, te
 
 Developed a custom YARA rule named `EducationalMalwareSim` to detect simulated malware indicators and suspicious behavioral patterns.
 
-```markdown
 ![YARA Rule](yara-rule.jpg)
-```
 
 ---
 
@@ -226,9 +220,7 @@ Developed a custom YARA rule named `EducationalMalwareSim` to detect simulated m
 
 Implemented sandbox safe file creation simulation logic for generating controlled malware like artifacts and behavioral indicators.
 
-```markdown
 ![File Creation Simulation](file-creation-simulation.jpg)
-```
 
 ---
 
@@ -236,9 +228,7 @@ Implemented sandbox safe file creation simulation logic for generating controlle
 
 Implemented API endpoints and backend logic to simulate file modification, encryption and malware style behavior safely within the sandbox.
 
-```markdown
 ![File Modification and Encryption](file-modification-encryption.jpg)
-```
 
 ---
 
@@ -246,9 +236,7 @@ Implemented API endpoints and backend logic to simulate file modification, encry
 
 Implemented simulated process execution, registry behavior, startup persistence and network activity for detection engineering demonstrations.
 
-```markdown
 ![System Activity Simulation](system-activity-simulation.jpg)
-```
 
 ---
 
@@ -256,9 +244,7 @@ Implemented simulated process execution, registry behavior, startup persistence 
 
 Created a secure deletion simulation mechanism by moving files into an isolated `.deleted` directory for forensic visibility and recovery.
 
-```markdown
 ![File Deletion Simulation](file-deletion-simulation.jpg)
-```
 
 ---
 
