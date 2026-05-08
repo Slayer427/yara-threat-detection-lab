@@ -266,9 +266,7 @@ Created a secure deletion simulation mechanism by moving files into an isolated 
 
 Implemented educational demonstrations of common file hiding techniques including dot prefix hiding and Alternate Data Streams (ADS).
 
-```markdown
 ![File Hiding Techniques](file-hiding-techniques.jpg)
-```
 
 ---
 
