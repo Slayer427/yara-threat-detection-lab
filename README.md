@@ -308,9 +308,7 @@ No unauthorized systems, networks or third-party environments were targeted or a
 
 # 📄 Detailed Report
 
-```markdown
 [View Full Report](yara-threat-detection-report.pdf)
-```
 
 ---
 
